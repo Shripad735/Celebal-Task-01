@@ -45,16 +45,6 @@ The terminal shows the server starting successfully and listening on port 3000.
 
 The browser displays the "Hello World from Node.js Server!" message when accessing localhost:3000.
 
-## File Structure
-
-```
-hello-node/
-├── app.js          # Main server file
-├── README.md       # Project documentation
-└── screenshots/    # Project screenshots
-    ├── terminal.png
-    └── browser.png
-```
 
 ## Code Overview
 
